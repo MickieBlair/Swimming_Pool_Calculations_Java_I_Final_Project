@@ -81,7 +81,7 @@ public class SwimmingPool
     /**
      * Calculate Time To Drain
      * @param remove Gallons to drain to adjust the level
-     * @return 
+     * @return drain time
      */
     public double calcTimeToDrain(double remove)
         {
