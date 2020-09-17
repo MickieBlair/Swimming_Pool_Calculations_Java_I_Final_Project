@@ -4,7 +4,7 @@
 ## Project Description/Report
 [Report](https://github.com/MickieBlair/Swimming_Pool_Calculations_Java_I_Final_Project/blob/master/Swimming_Pool_Final_Project_Java_I.pdf)
 
-Includes
+Includes:
 * Code Samples
 * Output Samples
 * Screen shots
