@@ -3,4 +3,11 @@
 
 ## Javadocs
 
-https://github.com/MickieBlair/Swimming_Pool_Calculations_Java_I_Final_Project/blob/master/SwimmingPool_Netbeans_Folder/dist/javadoc/index.html
+#### Swimming Pool
+https://github.com/MickieBlair/Swimming_Pool_Calculations_Java_I_Final_Project/blob/master/SwimmingPool_Javadocs.pdf
+
+#### Swimming Pool Demo
+https://github.com/MickieBlair/Swimming_Pool_Calculations_Java_I_Final_Project/blob/master/SwimmingPoolDemo_Javadocs.pdf
+
+
+
